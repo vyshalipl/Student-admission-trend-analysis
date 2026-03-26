@@ -73,6 +73,7 @@ python scripts/analysis.py
 * Comparative analysis charts
 * Summary insights
 
+
 ## 🔍 Key Insights
 
 * Identified increasing/decreasing admission trends
@@ -89,8 +90,6 @@ python scripts/analysis.py
 ## 👩‍💻 Author
 
 Vyshali 
-
----
 
 ## 📜 License
 
