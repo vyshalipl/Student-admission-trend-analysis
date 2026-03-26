@@ -3,6 +3,9 @@
 ## 📌 Overview
 
 This project focuses on analyzing student admission data to identify trends, patterns, and insights using data analytics techniques. It helps in understanding admission growth, category-wise distribution, and yearly variations.
+
+---
+
 ## 🚀 Features
 
 * 📈 Trend analysis of student admissions over years
@@ -11,13 +14,17 @@ This project focuses on analyzing student admission data to identify trends, pat
 * 🔍 Insight generation for decision-making
 * 📉 Identifying patterns and anomalies
 
+---
+
 ## 🛠️ Tech Stack
 
-* Python 
+* Python / R
 * Pandas / dplyr
 * Matplotlib / ggplot2
 * FastAPI (for backend - optional if used)
 * HTML/CSS (basic frontend - optional)
+
+---
 
 ## 📂 Project Structure
 
@@ -38,6 +45,7 @@ student-admission-analysis/
 │
 └── README.md
 
+---
 
 ## ⚙️ Installation
 
@@ -53,12 +61,23 @@ student-admission-analysis/
 OR (for R users)
 install.packages("ggplot2")
 
+---
+
 ## ▶️ How to Run
 
 ### Python
 
 ```
 python scripts/analysis.py
+```
+
+### R
+
+```
+source("scripts/analysis.R")
+```
+
+---
 
 ## 📊 Sample Analysis
 
@@ -67,18 +86,23 @@ python scripts/analysis.py
 * Department-wise admissions
 * Category-based insights
 
+---
+
 ## 📈 Output
 
 * Graphs showing admission trends
 * Comparative analysis charts
 * Summary insights
 
+---
 
 ## 🔍 Key Insights
 
 * Identified increasing/decreasing admission trends
 * Found department popularity patterns
 * Analyzed category-wise variations
+
+---
 
 ## 🚀 Future Enhancements
 
@@ -87,10 +111,20 @@ python scripts/analysis.py
 * Real-time data integration
 * Web-based interactive dashboard
 
+---
+
 ## 👩‍💻 Author
 
 Vyshali 
 
+---
+
 ## 📜 License
 
 This project is for educational purposes.
+
+
+
+
+
+
